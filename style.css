@@ -21,8 +21,7 @@ button {
 
 section {
   padding: 20px;
-  color: white;
-  text-align: center;
+  margin: 0 auto;
 }
 
 .project {
